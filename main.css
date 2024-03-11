@@ -1,0 +1,286 @@
+@font-face {
+    font-family: "allt";
+    src: url(allt.ttf);
+}
+
+@font-face {
+    font-family: "mm";
+    src: url(mm.ttf);
+}
+
+.contayner {
+    width: 1400px;
+    height: 9000px;
+    background-color: rgb(255, 255, 255);
+    margin: 0 auto;
+}
+
+.kalasi {
+    width: 1400px;
+    height: 50px;
+    background-color: #ffffff;
+}
+
+.googli {
+    margin-top: 10px;
+    margin-left: 20px;
+}
+
+small {
+    font-family: "allt";
+    margin-left: 30px;
+    padding: 0px;
+}
+
+.narsa {
+    width: 200px;
+    height: 50px;
+    /* background-color: blue; */
+    margin-top: -25px;
+    margin-left: 1200px;
+}
+
+.narsa>svg {
+    margin-left: 20px;
+
+}
+
+.buyni {
+    width: 1400px;
+    height: 600px;
+    background-image: url(./tehnamart.jpg);
+}
+
+.bugzi {
+    width: 350px;
+    height: 600px;
+    /* background-color: #fff; */
+    margin-left: 100px;
+}
+
+h1 {
+    font-family: "allt";
+    font-size: 40px;
+}
+
+.qizilungach {
+    width: 100px;
+    height: 30px;
+    border: solid black;
+    border-radius: 5px;
+
+}
+
+.qizilungach>p {
+    font-family: "allt";
+    font-size: 13px;
+    display: flex;
+    margin-top: 8px;
+    margin-left: 7px;
+}
+
+.zuu {
+    margin-top: -25px;
+    margin-left: 140px;
+}
+
+.bab {
+    font-family: "allt";
+    font-size: 20px;
+    margin-left: 500px;
+}
+
+.mmm {
+    width: 1400px;
+    height: 505px;
+    border: solid 1px rgb(234, 234, 234);
+}
+
+.carusel {
+    /* width: 1400px;
+    height: 505px; */
+    /* display: flex; */
+    margin: 0 auto;
+
+
+}
+
+.na {
+    width: 500px;
+    height: 500px;
+    margin-left: 450px;
+}
+
+.yelka {
+    width: 1200px;
+    height: 650px;
+    background-color: #ffffff;
+}
+
+.tomir {
+    width: 370px;
+    height: 400px;
+    background-color: rgb(255, 255, 255);
+    margin-top: -500px;
+    margin-left: 700px;
+}
+
+.tomir>h1 {
+    font-size: 29px;
+}
+
+.tomir>small {
+    color: aqua;
+    margin-left: 0px;
+}
+
+.kukirak0 {
+    width: 1400px;
+    height: 600px;
+}
+
+.mma {
+    width: 450px;
+    height: 650px;
+    background-color: rgba(233, 227, 219, 1);
+    border-radius: 30px;
+}
+
+.mma>p {
+    font-family: "allt";
+    margin-left: 150px;
+}
+
+.mma>h1 {
+    font-family: "allt";
+    margin-left: 80px;
+}
+
+.mma>img {
+    margin-left: 40px;
+}
+
+.bb {
+    width: 100px;
+    height: 28px;
+    margin-left: 180px;
+    border: solid 1px black;
+    border-radius: 5px;
+}
+
+.bb>p {
+    margin-left: 7px;
+}
+
+.kukirak1 {
+    width: 450px;
+    height: 600px;
+    margin-top: -650px;
+    margin-left: 470px;
+}
+
+.kukirak2 {
+    width: 450px;
+    height: 600px;
+    margin-top: -650px;
+    margin-left: 470px;
+}
+
+.qorin {
+    width: 1400px;
+    height: 600px;
+    background-color: rgb(255, 255, 255);
+    margin-top: 100px;
+}
+
+.oshqazon {
+    width: 610px;
+    height: 800px;
+    background-color: rgba(214, 226, 219, 1);
+    border-radius: 20px;
+}
+
+.oshqazon>p {
+    margin-left: 250px;
+}
+
+.oshqazon>h1 {
+    margin-left: 180px;
+}
+
+.ichak {
+    width: 610px;
+    height: 800px;
+    background-color: rgba(239, 221, 205, 1);
+    border-radius: 20px;
+    margin-top: -800px;
+    margin-left: 800px;
+}
+
+.ichak>p {
+    margin-left: 250px;
+}
+
+.ichak>h1 {
+    margin-left: 180px;
+}
+
+.b {
+    width: 100px;
+    height: 28px;
+    margin-left: 250px;
+    border: solid 1px black;
+    border-radius: 5px;
+}
+
+.b>p {
+    margin-left: 5px;
+}
+
+.beli {
+    width: 1400px;
+    height: 400px;
+    background-color: rgb(255, 255, 255);
+    margin-top: 250px;
+
+}
+
+.beli>h1 {
+    font-family: "allt";
+    margin-left: 500px;
+}
+
+.ehtiyotqisimlar {
+    width: 400px;
+    height: 400px;
+    background-color: rgb(255, 255, 255);
+    margin-top: -50px;
+    margin-left: 150px;
+    gap: 100px;
+}
+
+.mmva {
+    width: 300px;
+    height: 150px;
+    margin-top: 150px;
+}
+.mm {
+    width: 300px;
+    height: 150px;
+    margin-top: 150px;
+}
+.mm {
+    width: 300px;
+    height: 150px;
+    margin-top: -150px;
+}
+.m {
+    width: 300px;
+    height: 150px;
+    margin-top: -200px;
+}
+.m {
+    width: 300px;
+    height: 150px;
+    margin-top: -200px;
+} 
